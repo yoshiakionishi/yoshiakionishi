@@ -1,4 +1,6 @@
-## Hi there 👋
+## 👋 Hello!
+
+Thanks for stopping by. I am Yoshiaki Onishi, and this is my GitHub page. I am a composer/conductor/clarinetist who discovered the joy of coding along the way, developing things that others might find useful, too. 
 
 <!--
 **yoshiakionishi/yoshiakionishi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
